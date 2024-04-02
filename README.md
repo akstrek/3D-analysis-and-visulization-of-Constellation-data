@@ -19,7 +19,7 @@ This will be your first reviewable project, which will allow you to receive some
 
 ## Results
 ### 2D Visualization rendering Orion constellation
-![Result 2D scatterplot]([/assets/Results/2D-Data-Visualization.png](https://github.com/akstrek/3D-analysis-and-visulization-of-Constellation-data/blob/main/Results/2D-Data-Visualization.png))
+![Result 2D scatterplot](/assets/Results/2D-Data-Visualization.png)
 
 ### 3D Visualization rendering Orion constellation
 ![Result 3D scatterplot](Results/3D-Projection.png")
