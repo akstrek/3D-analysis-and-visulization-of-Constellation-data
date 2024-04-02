@@ -22,10 +22,10 @@ This will be your first reviewable project, which will allow you to receive some
 ![Result 2D scatterplot](/assets/Results/2D-Data-Visualization.png)
 
 ### 3D Visualization rendering Orion constellation
-![Result 3D scatterplot](Results/3D-Projection.png")
+![Result 3D scatterplot](/assets/Results/3D-Projection.png")
 
 ### 2D Visualization closely rendering the Orion constellation in the night sky
-![Result 2D scatterplot](Results/2D-Visualization-rendering.png")
+![Result 2D scatterplot](/assets/Results/2D-Visualization-rendering.png")
 
 ### 3D Visualization closely rendering the Orion constellation in the night sky
-![Result 3D scatterplot](Results/3D-Visualization-rendering.png")
+![Result 3D scatterplot](/assets/Results/3D-Visualization-rendering.png")
