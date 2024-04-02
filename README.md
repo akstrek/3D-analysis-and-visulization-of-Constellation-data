@@ -12,20 +12,20 @@ As a researcher on the Hayden Planetarium team, you are in charge of visualizing
 
 You will create both a 2D and a 3D visualization of the position of Orion’s stars and get a better sense of their actual positions. To achieve this, you will be mapping real data from outer space that maps the position of the stars in the sky.
 
-The goal of the project is to understand spatial perspective. Once you visualize Orion in both 2D and 3D, you will be able to see the difference in the constellation shape humans see from earth versus the actual position of the stars that make up this constellation.
+The goal of the project is to understand spatial perspective. Once you visualize Orion in both 2D and 3D, you will be able to see the difference in the constellation shape humans see from Earth versus the actual position of the stars that make up this constellation.
 
-This will be your first reviewable project, which will give you the opportunity to receive some feedback on what you’ve learned so far.
+This will be your first reviewable project, which will allow you to receive some feedback on what you’ve learned so far.
 
 
 ## Results
 ### 2D Visualization rendering Orion constellation
-![Result 2D scatterplot](Results\2D Data Visualization.png")
+![Result 2D scatterplot](Results\2D-Data-Visualization.png")
 
 ### 3D Visualization rendering Orion constellation
-![Result 3D scatterplot](Results\3D Projection.png")
+![Result 3D scatterplot](Results\3D-Projection.png")
 
-### 2D Visualization closely rendering Orion constellation in night sky
-![Result 2D scatterplot](Results\2D Visualization rendering.png")
+### 2D Visualization closely rendering the Orion constellation in the night sky
+![Result 2D scatterplot](Results\2D-Visualization-rendering.png")
 
-### 3D Visualization closely rendering Orion constellation in night sky
-![Result 3D scatterplot](Results\3D Visualization rendering.png")
+### 3D Visualization closely rendering the Orion constellation in the night sky
+![Result 3D scatterplot](Results\3D-Visualization-rendering.png")
